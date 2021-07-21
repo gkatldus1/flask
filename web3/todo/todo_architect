@@ -1,0 +1,6 @@
+Todo 목록 보기 -> get/todos
+Todo 추가하기 -> post/todo
+Todo 내용 수정하기 -> patch/todos/<todo_id>
+Todo 삭제 -> delete/todos/<todo_id>
+Todo 상세조회 -> get/todos/<todo_id>
+Todo 완료하기 -> 
